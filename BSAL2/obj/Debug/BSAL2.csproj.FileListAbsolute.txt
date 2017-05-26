@@ -1,6 +1,0 @@
-C:\Projects\BSAL2\BSAL2\obj\Debug\BSAL2.csprojResolveAssemblyReference.cache
-C:\Projects\BSAL2\BSAL2\bin\Debug\BSAL2.exe.config
-C:\Projects\BSAL2\BSAL2\bin\Debug\BSAL2.exe
-C:\Projects\BSAL2\BSAL2\bin\Debug\BSAL2.pdb
-C:\Projects\BSAL2\BSAL2\obj\Debug\BSAL2.exe
-C:\Projects\BSAL2\BSAL2\obj\Debug\BSAL2.pdb

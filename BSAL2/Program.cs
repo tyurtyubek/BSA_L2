@@ -10,6 +10,7 @@ namespace BSA_2
     {
         static void Main(string[] args)
         {
+            //initialize
             ZooAlive zooalive = new ZooAlive();
             zooalive.LetsZooAlive();
             Console.ReadLine();
